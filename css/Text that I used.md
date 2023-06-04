@@ -1,11 +1,11 @@
 Some link and texts for this website.
 
  <!-- For Nav Section -->
-facebook - https://www.facebook.com
-twitter - https://twitter.com/i/flow/login
+facebook -  https://www.facebook.com
+twitter -   https://twitter.com/i/flow/login
 instagram - https://www.instagram.com/accounts/login
-github - https://github.com/login
-youtube - https://www.youtube.com/login
+github -    https://github.com/login
+youtube -   https://www.youtube.com/login
 
 contact num - 0022-0303-2030
 
